@@ -48,7 +48,7 @@ Instructions
 Clone the repository:
 
 Copy code
-git clone https://github.com/hamzahrd/gitex-morocco-analysis.git
+git clone https://github.com/hamzahrd/gitex-companies-analysis.git
 Navigate to the project directory:
 
 cd gitex-morocco-analysis
